@@ -1,0 +1,27 @@
+{
+  "name": "jiusystem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twistedsushitm/jiusystem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twistedsushitm/jiusystem/issues"
+  },
+  "homepage": "https://github.com/twistedsushitm/jiusystem#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "ollama": "^0.5.12"
+  }
+}
